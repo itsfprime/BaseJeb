@@ -1,0 +1,8 @@
+C:\Users\Jeb\Source\Repos\encryption\encryption\bin\Debug\encryption.exe.config
+C:\Users\Jeb\Source\Repos\encryption\encryption\bin\Debug\encryption.exe
+C:\Users\Jeb\Source\Repos\encryption\encryption\bin\Debug\encryption.pdb
+C:\Users\Jeb\Source\Repos\encryption\encryption\obj\Debug\encryption.csproj.AssemblyReference.cache
+C:\Users\Jeb\Source\Repos\encryption\encryption\obj\Debug\encryption.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeb\Source\Repos\encryption\encryption\obj\Debug\encryption.csproj.CoreCompileInputs.cache
+C:\Users\Jeb\Source\Repos\encryption\encryption\obj\Debug\encryption.exe
+C:\Users\Jeb\Source\Repos\encryption\encryption\obj\Debug\encryption.pdb
